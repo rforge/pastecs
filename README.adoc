@@ -6,4 +6,4 @@ It is a PNEC-Art4 and IFREMER (Benoit.Beliaeff@ifremer.fr) initiative to bring P
 
 Install it from CRAN using `install.packages("pastecs")`.
 
-License: GPL v.2 or above.
+**License:** GPL v.2 or above.
